@@ -36,18 +36,18 @@ Questo repository contiene le slide in formato PDF e ODP suddivise in 3 parti, p
 
 I file principali presenti nella cartella di lavoro sono:
 
-- `Matteo Baccan - Raspberry Pi - Linox 2015 - corso parte 1.pdf`
-- `Matteo Baccan - Raspberry Pi - Linox 2015 - corso parte 1.odp`
-- `Matteo Baccan - Raspberry Pi - Linox 2015 - corso parte 2.pdf`
-- `Matteo Baccan - Raspberry Pi - Linox 2015 - corso parte 2.odp`
-- `Matteo Baccan - Raspberry Pi - Linox 2015 - corso parte 3.pdf`
-- `Matteo Baccan - Raspberry Pi - Linox 2015 - corso parte 3.odp`
+- `Matteo_Baccan_-_Raspberry_Pi_-_Linox_2015_-_corso_parte_1.pdf`
+- `Matteo_Baccan_-_Raspberry_Pi_-_Linox_2015_-_corso_parte_1.odp`
+- `Matteo_Baccan_-_Raspberry_Pi_-_Linox_2015_-_corso_parte_2.pdf`
+- `Matteo_Baccan_-_Raspberry_Pi_-_Linox_2015_-_corso_parte_2.odp`
+- `Matteo_Baccan_-_Raspberry_Pi_-_Linox_2015_-_corso_parte_3.pdf`
+- `Matteo_Baccan_-_Raspberry_Pi_-_Linox_2015_-_corso_parte_3.odp`
 
 ## Link ai documenti (PDF / ODP)
 
-- Parte 1: [PDF](./Matteo Baccan - Raspberry Pi - Linox 2015 - corso parte 1.pdf) | [ODP](./Matteo Baccan - Raspberry Pi - Linox 2015 - corso parte 1.odp)
-- Parte 2: [PDF](./Matteo Baccan - Raspberry Pi - Linox 2015 - corso parte 2.pdf) | [ODP](./Matteo Baccan - Raspberry Pi - Linox 2015 - corso parte 2.odp)
-- Parte 3: [PDF](./Matteo Baccan - Raspberry Pi - Linox 2015 - corso parte 3.pdf) | [ODP](./Matteo Baccan - Raspberry Pi - Linox 2015 - corso parte 3.odp)
+- Parte 1: [PDF](./Matteo_Baccan_-_Raspberry_Pi_-_Linox_2015_-_corso_parte_1.pdf) | [ODP](./Matteo_Baccan_-_Raspberry_Pi_-_Linox_2015_-_corso_parte_1.odp)
+- Parte 2: [PDF](./Matteo_Baccan_-_Raspberry_Pi_-_Linox_2015_-_corso_parte_2.pdf) | [ODP](./Matteo_Baccan_-_Raspberry_Pi_-_Linox_2015_-_corso_parte_2.odp)
+- Parte 3: [PDF](./Matteo_Baccan_-_Raspberry_Pi_-_Linox_2015_-_corso_parte_3.pdf) | [ODP](./Matteo_Baccan_-_Raspberry_Pi_-_Linox_2015_-_corso_parte_3.odp)
 
 ## Note e contatti
 
